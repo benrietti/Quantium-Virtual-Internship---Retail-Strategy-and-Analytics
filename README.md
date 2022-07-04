@@ -1,6 +1,6 @@
 # Quantium_Analysis
 
-This internship involved performing work on 3 tasks. All of which were completed out of Jupyter Notebook with code written in Python Version 3.7 and with the following packages: 
+This internship involved performing work on 3 tasks. All of which were completed with Jupyter Notebook with code written in Python Version 3.7 and with the following packages: 
 pandas, numpy, sklearn, matplotlib, datetime, scipy, mlxtend
 
 Task 1 - Data preparation and customer analytics
