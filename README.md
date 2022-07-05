@@ -1,12 +1,23 @@
 # Quantium Virtual Internship- Retail Strategy and Analytics
 
-This internship involved performing work on 3 tasks. All of which were completed with Jupyter Notebook with code written in Python Version 3.7 and with the following packages: 
+This internship involved performing work on 3 tasks that focused on key analytics skills such as:
+
+Data wrangling
+Data visualization
+Programming skills
+Statistics
+Critical thinking
+Commercial thinking
+
+Tasks were completed with Jupyter Notebook with code written in Python Version 3.7 and with the following packages: 
 pandas, numpy, sklearn, matplotlib, datetime, scipy, mlxtend
 
 Task 1 - Data preparation and customer analytics
+
 Conduct analysis on client's transaction dataset and identify customer purchasing behaviours to generate insights and provide commercial recommendations.
 
 Data Cleaning:
+
 Date column was in integer format. Changed date column to datetime data type.
 Ensuring all products are Chips. Split and counted frequency of each word in "PROD_NAME" column. Removed all rows containing "salsa" in "PROD_NAME".
 Removed outliers rows in "PROD_QTY" column.
@@ -31,8 +42,8 @@ Chips brand Kettle is dominating every segment as the most purchased brand.
 Observing the 2nd most purchased brand, "Young and Midage Singles/Couples" is the only segment with a different preference (Doritos) as compared to others' (Smiths).
 Most frequent chip size purchased is 175gr followed by the 150gr chip size for all segments.
 
-
 Task 2 - Experimentation and uplift testing
+
 Extend analysis from Task 1 to help identify benchmark stores to test the impact of the trial store layouts on customer sales.
 
 Client selected store number 77, 86 and 88 as trial stores. The goal of this task is to select 1 control store for each trial store.
@@ -48,6 +59,7 @@ Total Sales comparison: Tot_sales trial vs control Number of Customers compariso
 Conclusion: Trial store 77 and 86 had significant increase in total sales and number of customers during trial compared to control store. Trial store 88 had increases as well but insignificant.
 
 Task 3 - Analytics and commercial application
+
 Use analytics and insights from Task 1 and 2 to prepare a report for the client, the Category Manager.
 
 Used Pyramid Principle method to deliver insigths and recommendation to client in Powerpoint.
