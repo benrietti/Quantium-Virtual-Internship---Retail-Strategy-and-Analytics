@@ -35,5 +35,5 @@ Extend analysis from Task 1 to help identify benchmark stores to test the impact
 Task 3 - Analytics and commercial application
 
 
-Use analytics and insights from Task 1 and 2 to prepare a report for the client, the Category Manager.
+Use analytics and insights from Task 1 and 2 to prepare a report for the client using the pyramid principles framework. 
 
