@@ -14,7 +14,9 @@ Critical thinking
 
 Commercial thinking
 
-Tasks were completed with Jupyter Notebook with code written in Python Version 3.7 and with the following packages: 
+Tasks were completed with Jupyter Notebook with code written in Python. 
+
+The following packages were used: 
 pandas, numpy, sklearn, matplotlib, datetime, scipy, mlxtend
 
 Task 1 - Data preparation and customer analytics
