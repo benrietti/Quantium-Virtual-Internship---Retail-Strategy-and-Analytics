@@ -1,6 +1,6 @@
 # Quantium Virtual Internship- Retail Strategy and Analytics
 
-This internship involved performing work on 3 tasks that focused on key analytics skills such as:
+This internship required the completion of 3 tasks that focused on key analytics skills such as:
 
 
 • Data wrangling
