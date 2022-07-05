@@ -3,10 +3,15 @@
 This internship involved performing work on 3 tasks that focused on key analytics skills such as:
 
 Data wrangling
+
 Data visualization
+
 Programming skills
+
 Statistics
+
 Critical thinking
+
 Commercial thinking
 
 Tasks were completed with Jupyter Notebook with code written in Python Version 3.7 and with the following packages: 
